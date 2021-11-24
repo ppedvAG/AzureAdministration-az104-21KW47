@@ -7,3 +7,7 @@
 [OnPrem Azure PowerShellInstall](https://docs.microsoft.com/en-us/powershell/azure/?view=azps-6.6.0)
 
 [Wenn bei Installation NugEt / PowerShellget fehlschlägt](https://blog.ppedv.de/post/PowerShell-TLS-Error)
+
+[Preis Kalkulator für Schätzungen](https://azure.microsoft.com/en-us/pricing/calculator/)
+
+[Preis Kalkulator für OnPrem Vergleich](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
